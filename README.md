@@ -120,7 +120,7 @@ G F <BR>
 
 <hr>
 
-## ProGram:
+## Program:
 ```
 from collections import deque
 from collections import defaultdict
